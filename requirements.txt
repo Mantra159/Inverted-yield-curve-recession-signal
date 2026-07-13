@@ -1,0 +1,5 @@
+pandas
+matplotlib
+fredapi
+python-dotenv
+scikit-learn
